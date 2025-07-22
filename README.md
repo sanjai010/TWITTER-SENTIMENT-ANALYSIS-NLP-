@@ -44,7 +44,7 @@ You can use any open-source dataset like:
 
 Sentiment140 Dataset
 
-Kaggle datasets: Twitter Sentiment Analysis Dataset
+Kaggle datasets: Twitter Sentiment Analysis Dataset link: https://www.kaggle.com/datasets/kazanova/sentiment140
 
 Alternatively, you can scrape live tweets using the Twitter API and tweepy.
 
